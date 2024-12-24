@@ -1,6 +1,6 @@
 # Los Santos Chronicles Landing Page
 
-![Los Santos Chronicles Preview](./San Andreas Stories.png)
+![Los Santos Chronicles Preview](./San-Andreas-Stories.png)
 
 Landing page desenvolvida para Los Santos Chronicles, inspirada no universo de GTA V. 
 
